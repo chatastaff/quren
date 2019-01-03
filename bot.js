@@ -160,4 +160,14 @@ client.on("message", message => {
 
 
 
+///////////////////////////////////////
+//////////////////////////////////////
+client.on('ready', () => {
+client.user.setGame('BY TorpeDoSyS ','https://www.twitch.tv/kemo355');
+console.log('Logging into discord..');
+console.log(`
+By MR_Phantom
+`);
+
+});
 client.login(process.env.BOT_TOKEN);
