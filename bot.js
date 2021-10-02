@@ -170,4 +170,4 @@ By MR_Phantom
 `);
 
 });
-client.login(process.env.BOT_TOKEN);
+client.login('ODg5Mjg1ODEzMzAzNjUyMzY0.YUfB9A.Ol1edmpCoYXECy_-HT8moXouDoQ');
